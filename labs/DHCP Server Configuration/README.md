@@ -13,14 +13,13 @@ Through this lab, I gained hands on experience with:
 
 
 ### Network Topology
-![dhcp-config-topology](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/images/dhcp-config-topology.png)
-
+![dhcp-server-topology](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/labs/DHCP%20Server%20Configuration/images/dhcp-config-topology.png)
 
 ---
 
 
 ### Service Settings
-![dhcp-service-settings](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/images/dhcp-services-settings.png)
+![dhcp-service-settings](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/labs/DHCP%20Server%20Configuration/images/dhcp-services-settings.png)
 
 
 **DHCP POOL RANGE** -> 192.168.1.10 - 192.168.1.209 (200 addresses)
@@ -30,7 +29,7 @@ Through this lab, I gained hands on experience with:
 
 
 ### DHCP Server IP Configuration
-![dhcp-server-ipconfig](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/images/dhcp-server-ipconfig.png)
+![dhcp-server-ipconfig](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/labs/DHCP%20Server%20Configuration/images/dhcp-server-ipconfig.png)
 
 
 The DHCP IP _MUST_ be static, to ensure clients can always find it to request an IP address.
@@ -39,12 +38,12 @@ The DHCP IP _MUST_ be static, to ensure clients can always find it to request an
 
 
 ### Client PC 1 IP Configuration
-![client-pc1-ip-config](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/images/pc1-ipconfig.png)
+![client-pc1-ipconfig](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/labs/DHCP%20Server%20Configuration/images/pc1-ipconfig.png)
 
 
 ### Client PC 2 IP Configuration
-![client-pc2-ip-config](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/images/pc2-ipconfig.png)
+![client-pc2-ipconfig](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/labs/DHCP%20Server%20Configuration/images/pc2-ipconfig.png)
 
 
 ### Client PC 3 IP Configuration
-![client-pc3-ip-config](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/images/pc3-ipconfig.png)
+![client-pc3-ipconfig](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/labs/DHCP%20Server%20Configuration/images/pc3-ipconfig.png)
