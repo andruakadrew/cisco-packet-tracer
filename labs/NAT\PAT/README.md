@@ -176,4 +176,4 @@ Results: Proves that NAT works for both ICMP (ping) and TCP (HTTP) traffic.
 ![test4](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/labs/NAT%5CPAT/images/test4.png)
 
 
-Results: Shows that NAT is active with 3 translations, correct interfaces marked as outside/inside, and a mix of hit/missed packets.
+Results: Shows that NAT is active with 1 translation, correct interfaces marked as outside/inside, and a mix of hit/missed packets.
