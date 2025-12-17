@@ -1,6 +1,6 @@
 # ACL (Access Control List) Configuration lab
-In this lab, I configured a Multi Router network to simulate a school environment. This lab contains students, teachers, and a centralized Server network. The goal of this lab is to get a deeper understanding of ACLs are implemented into Networks
-and how it can restrict users based on pre-set permissions.
+In this lab, I configured a Multi Router network to simulate a school environment. This lab contains students, teachers, and a centralized Server network. The goal of this lab is to get a deeper understanding of ACLs
+and how I can use it to restrict users based on permissions.
 
 
 ## Lab setup
