@@ -11,7 +11,7 @@ Hands on Cisco Packet Tracer labs designed to demonstrate core network concepts.
 - Static & Dynamic Routing - Network path determination
 - VLANs - Network segmentation and traffic management
 - NAT/PAT - Address translation techniques
-- ACLs (Access Control Lists) - Traffic filtering and security
+- GRE (Generic Routing Encapsulation)
 - Switching & Routing - Layer 2 and Layer 3 operations
 
 ### Labs included
