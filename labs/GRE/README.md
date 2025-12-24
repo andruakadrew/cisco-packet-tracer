@@ -17,7 +17,7 @@ across intermediate networks, allowing routed connectivity between private LANs.
 - Router0 has no involvment in the GRE process, it's only job is to route the underlying WAN traffic
 
   
-![gre-topology](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/labs/GRE/images/GRE%20topology.png)
+![gre-topology](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/labs/GRE/images/topology.png)
 
 
 ## Configuration
