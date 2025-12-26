@@ -7,7 +7,6 @@ Hands on Cisco Packet Tracer labs designed to demonstrate core network concepts.
 ### Technologies Covered
 - DHCP (Dynamic Host Configuration Protocol) - Automated IP address assignment
 - DNS (Domain Name System) - Name resolution services
-- IPSec - Secure VPN tunneling and encryption
 - Static & Dynamic Routing - Network path determination
 - VLANs - Network segmentation and traffic management
 - NAT/PAT - Address translation techniques
@@ -31,10 +30,10 @@ Hands on Cisco Packet Tracer labs designed to demonstrate core network concepts.
 ---
 
 
-3. IPSec VPN Tunnel
-- **Objective:** Create secure site-to-site VPN connections  
-- **Skills:** IPSec configuration, encryption protocols, tunnel establishment
-- **Topology:** Multi site network with encrypted tunnels
+3. GRE Tunneling
+- **Objective:** Create secure site-to-site GRE tunnel between two networks. 
+- **Skills:** Link tunneling, ISP router configuration, GRE configuration 
+- **Topology:** Two networks located in different parts of the country, communicating internally through a GRE Linked tunnel.
 
 
 ---
