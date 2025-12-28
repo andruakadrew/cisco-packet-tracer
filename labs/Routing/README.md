@@ -1,6 +1,6 @@
 # Routing Lab
 This lab focuses on the fundamentals of routing, which include configuring routers, assigning static routes, VLAN routing,
-inter-VLAN, OSPF, EIGRP, NAT, etc). This project will expand upon my existing DHCP + DNS + LAN environment, by introducing a router into the environment.
+inter-VLAN, OSPF, EIGRP, NAT. This project will expand upon my existing DHCP + DNS + LAN environment, by introducing a router into the environment.
 
 
 ## Router LAN Configuration
