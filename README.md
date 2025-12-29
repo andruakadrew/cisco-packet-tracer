@@ -57,7 +57,27 @@ Hands on Cisco Packet Tracer labs designed to demonstrate core network concepts.
 ---
 
 
-6. Network Secuirty (ACLs)
+6. NAT Configuration
+- **Objective:** Enable communication between private and public networks by using NAT/PAT features
+- **Skills:** NAT/PAT enabling, CLI usage, Port configuration
+- **Topology:** One local network and one outside network  
+
+
+---
+
+
+7. Network Secuirty (ACLs)
  - **Objective:**  Control network traffic using Access Control Lists
  - **Skills:** Standard and extended ACLs, traffic filtering
  - **Topology:** Segmented network with security policies
+
+
+---
+
+
+8. Wireless Home Network Simulation
+- **Objective:** Set up a home network using common devices such as a Wireless router, Cable Modem, Laptops, and a Office PC.
+- **Skills:** Network implementation, Router installation
+- **Topology:** A home environemnt that contains a Wireless router, Cable modem, and multiple end devices such as TV's, PCs and laptops. All network devices in the home are connected to the router, which is then connected to the Modem and provides internet for all users connected to the home network.
+connect to th 
+- **Topology:**
