@@ -10,7 +10,7 @@ Both Switches are connected to each other using _Copper-Cross-Over_.
 ![topology](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/labs/Switches/images/topology.png)
 
 
-## Testing
+### Testing
 To test reachability for both Switches, I used the **ping** command. As a result both of my ping request came back successfull and all 6 PCs are able to communicate with eachother locally.
 
 
