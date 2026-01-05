@@ -152,7 +152,7 @@ Results: First attempt I got 50% packet loss (2 out of 4 packets). The second at
 ![test2](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/labs/NAT%5CPAT/images/test2.png)
 
 
-Results: Proves that NAT was translating the PC's private IP to the router's public IP.
+Results: NAT translates the PC's private IP to the router's public IP.
 
 
 ---
