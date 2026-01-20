@@ -39,10 +39,13 @@ To test reachability between the client PC and the Server, **Ping** the IP Addre
 ### Email test
 On each device in the **Email** Desktop tab, I configured all three user accounts. Next, I sent a test email from one user to another user.
 
-
+1. Send an email from one user account email to another user account.
 ![send-email](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/labs/Mail%20server/images/send-email.png)
 
 
+---
+
+2. Log into the user account and ensure that it received the email.
 ![receive-email](https://github.com/andruakadrew/cisco-packet-tracer/blob/main/labs/Mail%20server/images/receive-email.png)
 
 
