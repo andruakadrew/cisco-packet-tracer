@@ -16,6 +16,7 @@ Hands on Cisco Packet Tracer labs designed to demonstrate core network concepts.
 - Switching & Routing - Layer 2 and Layer 3 operations
 - Wireless connectivity - End devices connect to networks using Wi-Fi
 - Mail Server - Create user accounts and send emails
+- HTTP Server - Exchange web traffic through various networks
 - Home Network - Simulated Home Network containing a wireless router, the internet, and multiple end devices
 
 ### Labs included
@@ -102,6 +103,15 @@ Hands on Cisco Packet Tracer labs designed to demonstrate core network concepts.
 - **Objective:** Configure a server that provides mailing functions and test by sending emails from multiple accounts
 - **Skills:** POP3/SMTP Services, User account security
 - **Topology:** One local network with a server
+
+
+---
+
+
+11. HTTP Server
+- **Objective:** Configure a HTTP server and exchange web traffic between different networks 
+- **Skills:** HTTP services, HTML scripting
+- **Topology:** Multi network layout with one router, one switch for each network, and one server.
 
 
 ---
