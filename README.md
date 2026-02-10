@@ -111,13 +111,22 @@ Hands on Cisco Packet Tracer labs designed to demonstrate core network concepts.
 11. HTTP Server
 - **Objective:** Configure a HTTP server and exchange web traffic between different networks 
 - **Skills:** HTTP services, HTML scripting
-- **Topology:** Multi network layout with one router, one switch for each network, and one server.
+- **Topology:** Multi network layout with one router, one switch for each network, and one server
 
 
 ---
 
 
-11. Home Network Simulation
+12. IoT Services
+- **Objective:** Connect multiple IoT devices to a network and view them through a IoT Monitoring tool
+- **Skills:** Wireless connectivity, Interface configuration
+- **Topology:** A single smartphone and a Home Gateway wirelessly connected to various IoT devices
+
+
+---
+
+
+13. Home Network Simulation
 - **Objective:** Set up a home network using common devices such as a Wireless router, Cable Modem, Laptops, and a Office PC
 - **Skills:** Network implementation, Router installation
 - **Topology:** A home environemnt that contains a Wireless router, Cable modem, and multiple end devices such as TV's, PCs and laptops. All network devices in the home are connected to the router, which is then connected to the Modem and provides internet for all users connected to the home network
