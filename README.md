@@ -11,7 +11,8 @@ From fundamentals to advanced enterprise network configurations, these labs give
 
 
 ## Topics Covered
-- **Basic Networking:** IP addressing, subnetting, and topology setup
+- **Basic Networking:** IP addressing, subnetting, topology setup
+- **Basic Router Security** Port rules, password/secret encryption
 
 
 ## Requirements
