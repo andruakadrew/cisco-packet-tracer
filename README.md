@@ -1,23 +1,17 @@
 # Cisco Packet Tracer Labs
-## Overview
-In preparation for the CCNA (Cisco Certified Network Associate), I've completed various Cisco Packet Tracer labs that cover topics from the CCNA curriculum. From networking
-From fundamentals to advanced enterprise network configurations, these labs give me practical hands-on experience that will prepare me for the CCNA and my career in networking.
+In preparation for the Cisco Certified Network Associate, I've configured various labs with Cisco Packet Tracer covering the entire CCNA curriculum. Included with each lab folder is a **md** file describing the steps I took to complete each lab, as well as the **.pkt** file.
 
-
-## Features
-- Exercises on core CCNA topics
-- Packet Tracer files (.pkt) for each lab
-- Well-documented configurations and topologies
-
-
-## Topics Covered
-- **Basic Networking** IP addressing, subnetting, topology setup
-- **Basic Router Security** Port rules, password/secret encryption
-- **VLAN Confiration Trunk Encapsulation** VLAN segmentation, VLAN communication, trunk port configuration
-- **Inter-VLAN routing troubleshooting** Router-on-a-Stick(ROAS), VLAN/Trunk configuration, network troubleshooting
-- **Local Username-Password Database** Local authentication, Console access, initial device setup 
-
-
-## Requirements
+## Nice to have (not required)
 - Cisco Packet Tracer (latest version)
 - Knowledge of networking fundamentals
+
+## Topics Covered
+- [VLAN-Confiration-Trunk-Encapsulation](https://github.com/andruakadrew/cisco-packet-tracer/tree/main/VLAN%20Configuration%20Trunk%20Encapsulation)
+- [Inter-VLAN routing troubleshooting](https://github.com/andruakadrew/cisco-packet-tracer/tree/main/Inter-VLAN%20routing%20(ROAS))
+- [Access-Control-List](https://github.com/andruakadrew/cisco-packet-tracer/tree/main/ACL)
+- [Dynamic-Host-Configuration](https://github.com/andruakadrew/cisco-packet-tracer/tree/main/DHCP)
+- [Domain-Name-Services](https://github.com/andruakadrew/cisco-packet-tracer/tree/main/DNS)
+- [Port-Security](https://github.com/andruakadrew/cisco-packet-tracer/tree/main/Port%20Security)
+- [Secure-Remote-Login](https://github.com/andruakadrew/cisco-packet-tracer/tree/main/Port%20Security)
+- [Enhanced-Interior-Gateway-Routing](https://github.com/andruakadrew/cisco-packet-tracer/tree/main/EIGRP)
+- [Ether-Channels](https://github.com/andruakadrew/cisco-packet-tracer/tree/main/EtherChannel)
