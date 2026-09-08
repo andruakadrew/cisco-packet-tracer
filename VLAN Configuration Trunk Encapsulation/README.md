@@ -1,4 +1,4 @@
-# VLAN Configuration and Trunk Encapsulation lab
+# VLAN Configuration and Trunk Encapsulation
 ## Overview
 Virtual Local Area Networks (VLANs) provide logical segmentation of a physical network by creating separate Layer 2 broadcast domains. Devices within the same VLAN can 
 communicate with each other regardless of their physical location.
